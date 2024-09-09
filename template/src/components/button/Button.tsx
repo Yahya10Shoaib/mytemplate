@@ -5,7 +5,6 @@ import {white} from '@/config/colors';
 import {fonts, lineHeights, sizes} from '@/config/fonts';
 import {Button as ButtonRNE} from '@rneui/base';
 import {ButtonComponentProps} from '@/types';
-// import { AuthContext } from "src/utils/auth-context";
 
 function Button(props: ButtonComponentProps) {
   const {
